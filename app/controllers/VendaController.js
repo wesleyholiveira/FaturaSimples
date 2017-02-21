@@ -13,7 +13,7 @@ module.exports = {
 		objEnvio.meio_pagamento = 'Novo meio de pagamento';
 
 		// Pede ao usuário para digitar o nome do cliente para criar uma nova venda
-		rl.question('Digite o nome ou o código do cliente cadastrado no Faturo Simples\n', (nome) => {
+		rl.question('Digite o nome ou o código do cliente cadastrado no Fatura Simples\n', (nome) => {
 		
 			objEnvio.cliente = nome;
 			rl.question('Digite o tipo de serviço que foi oferecido\n', (servico) => {
