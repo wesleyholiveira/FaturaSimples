@@ -1,0 +1,20 @@
+{
+  "name": "vaga",
+  "version": "1.0.0",
+  "description": "Pequeno programa que irá gerar boletos e listá-los com a API do Fature Sumples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fature",
+    "Simples",
+    "Fature",
+    "Simples"
+  ],
+  "author": "Wesley Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.79.0"
+  }
+}
