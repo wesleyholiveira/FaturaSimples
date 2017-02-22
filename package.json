@@ -1,5 +1,5 @@
 {
-  "name": "vaga",
+  "name": "Mini Projeto FaturaSimples",
   "version": "1.0.0",
   "description": "Pequeno programa que irá gerar boletos e listá-los com a API do Fatura Sumples",
   "main": "index.js",
